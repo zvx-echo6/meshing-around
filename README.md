@@ -10,7 +10,7 @@ Mesh Bot is a feature-rich Python bot designed to enhance your [Meshtastic](http
 * [install.sh](INSTALL.md)
 * [Configuration Guide](modules/README.md)
 * [Games Help](modules/games/README.md)
-* [freq51.net edition notes](freq51.md}
+* [freq51.net edition notes](freq51.md)
 ## Key Features
 ![CodeQlBadge](https://github.com/SpudGunMan/meshing-around/actions/workflows/dynamic/github-code-scanning/codeql/badge.svg)
 
