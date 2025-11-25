@@ -1,3 +1,5 @@
+This is the Intermountain Mesh's fork for configuration of the BBS network of devices. Using this method ensures that the primary BBS nodes have config settings that are current and functional.
+
 # Mesh Bot for Network Testing and BBS Activities
 
 Mesh Bot is a feature-rich Python bot designed to enhance your [Meshtastic](https://meshtastic.org/docs/introduction/) network experience. It provides powerful tools for network testing, messaging, games, and more—all via text-based message delivery. Whether you want to test your mesh, send messages, or play games, [mesh_bot.py](mesh_bot.py) has you covered.
